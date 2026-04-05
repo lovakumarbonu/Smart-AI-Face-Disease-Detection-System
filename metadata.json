@@ -1,0 +1,7 @@
+{
+  "name": "Smart AI – Face Disease Detection System",
+  "description": "An advanced AI-powered healthcare platform that analyzes facial images to detect early disease risks using computer vision and deep learning simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
